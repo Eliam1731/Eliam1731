@@ -38,7 +38,7 @@ Soy un programador junior mexicano enfocado en aprender de forma práctica. Actu
 ## 📫 Contacto
 
 - 📧 eliam1731@hotmail.com  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/eliam-jimenez)  
+- 🌐 [LinkedIn](www.linkedin.com/in/eliam-jiménez-santiago-1a3244324)  
 - 🐱 GitHub: [@Eliam1731](https://github.com/Eliam1731)
 
 ---
