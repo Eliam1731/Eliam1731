@@ -71,4 +71,4 @@ Me interesa crear herramientas que automaticen procesos y ayuden a negocios a op
 ## 📫 Contacto
 
 - 📧 eliam1731@hotmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/eliam-jiménez-santiago-1a3244324  
+- 💼 LinkedIn: https://www.linkedin.com/in/eliam-jmz1731
